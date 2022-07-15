@@ -1,0 +1,6 @@
+{
+  "appId": "com.kirimwhatsapp.id",
+  "appName": "kirim-whatsapp",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
